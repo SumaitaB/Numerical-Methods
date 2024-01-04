@@ -1,5 +1,5 @@
 # Numerical Methods
-A number of Numerical Methods programs written in C.
+A number of Numerical Methods programs written in C along with reports.
 Programs include: 
 
 * Bisection Method

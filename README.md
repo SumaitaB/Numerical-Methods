@@ -1,4 +1,4 @@
-### Numerical Methods
+# Numerical Methods
 A number of Numerical Methods programs written in C along with reports.
 Programs include: 
 
